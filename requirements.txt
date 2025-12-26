@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+cfgrib
+eccodes
+metpy
+pytz
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+tqdm
+argparse
